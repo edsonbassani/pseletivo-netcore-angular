@@ -1,0 +1,14 @@
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\bin\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.deps.json
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\bin\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.runtimeconfig.json
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\bin\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.runtimeconfig.dev.json
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\bin\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.dll
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\bin\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.pdb
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\obj\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.csprojAssemblyReference.cache
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\obj\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\obj\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.RazorAssemblyInfo.cache
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\obj\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.RazorAssemblyInfo.cs
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\obj\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.AssemblyInfoInputs.cache
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\obj\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.AssemblyInfo.cs
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\obj\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\obj\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.dll
+C:\Users\edsonbassani\source\repos\AirplaneRegister\AirplaneRegister.WebAPI\obj\Debug\netcoreapp2.2\AirplaneRegister.WebAPI.pdb

@@ -1,0 +1,33 @@
+● src
+
++---● app
+
+|   +--● airplanesregister
+
+|   |  |--airplanesregister.component.ts|.html|.css
+
+|   |  +--● airplaneregister
+
+|   |  |  |--airplaneregister.component.ts|.html|.css
+
+|   |  |
+
+|   |  +--● airplaneregister-list
+
+|   |  |  |--airplaneregister-list.component.ts|.html|.css
+
+|   |  |
+
+|   |  +--● shared
+
+|   |     |--airplaneregister.service.ts
+
+|   |     |--airplaneregister.model.ts
+
+|   |
+
+|   |--app.module.ts
+
+|
+
+|--index.html (cdn path for bootstrap)
