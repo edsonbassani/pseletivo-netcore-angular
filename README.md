@@ -5,3 +5,9 @@ TABLE OF CONTENTS:
 - AirplaneRegister.Angular => src and dist folders for Angular project
 - AirplaneRegister.WebAPI => Restful API for AirplaneRegister.Angular (front-end)
 - AirplaneRegister.xUnit => Unit tests
+
+
+
+
+
+![ScreenShot](https://github.com/edsonbassani/pseletivo-netcore-angular/blob/master/AirplaneRegister.Screens.jpg)
